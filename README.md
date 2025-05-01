@@ -25,6 +25,6 @@ Ideal for showcasing tabbed interfaces in modern web applications.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-tabs-app.git
-cd react-tabs-app
+git clone https://github.com/nurmohammadrahul/react-tab.git
+cd react-tab
 npm install
