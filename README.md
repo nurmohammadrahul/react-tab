@@ -1,12 +1,30 @@
-# React + Vite
+# React Tabs App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, customizable React application demonstrating tabbed navigation.  
+Ideal for showcasing tabbed interfaces in modern web applications.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Live](https://react-tab3.netlify.app/)
 
-## Expanding the ESLint configuration
+## 📦 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Dynamic Tab Management**: Easily add, remove, and switch between tabs.
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Minimalistic UI**: Clean and intuitive interface for seamless user experience.
+- **Customizable Styles**: Easily tweak the appearance to match your branding.
+
+## 🛠️ Technologies Used
+
+- **React** – JavaScript library for building user interfaces
+- **CSS** – Styling and layout
+- **Netlify** – Continuous deployment and hosting
+
+## 📂 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/react-tabs-app.git
+cd react-tabs-app
+npm install
